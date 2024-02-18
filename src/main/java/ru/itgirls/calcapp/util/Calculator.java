@@ -6,11 +6,13 @@ public class Calculator {
         return sum;
 
     }
+
     public static int calculateDifference(int num1, int num2) {
         int difference = num1 - num2;
         return difference;
 
     }
+
     public static int calculateMultiply(int num1, int num2) {
         int multiply = num1 * num2;
         return multiply;
