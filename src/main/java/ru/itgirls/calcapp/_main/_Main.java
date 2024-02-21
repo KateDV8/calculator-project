@@ -8,6 +8,7 @@ public class _Main {
     public static void main(String[] args) {
         Scanner sc;
         sc = new Scanner(System.in);
+
         int i = 1;
         while (i < 3) {
             System.out.println("введите значение a");
